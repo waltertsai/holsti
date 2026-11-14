@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-# Holsti: reflex and reason for 24x7 operations
+<div align="center"># Holsti: reflex and reason for 24x7 operations</div>
 
 Most decisions that keep an industrial operation running around the clock, in a factory, a trading system or a compute cluster, need very little language AI. Deterministic programs watch stability, runbooks say what to do, and agents apply them. A language model is needed only for the rare failure nobody has seen before. In this project's ten synthetic fault scenarios, 1 of 12 incidents needed one.
 
