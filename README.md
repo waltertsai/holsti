@@ -5,8 +5,11 @@
   </picture>
 </p>
 
-# Holsti: reflex and reason for 24x7 operations
+<div align="center">
+  <h1>Holsti: reflex and reason for 24x7 operations</h1>
+</div>
 
+ 
 Most decisions that keep an industrial operation running around the clock, in a factory, a trading system or a compute cluster, need very little language AI. Deterministic programs watch stability, runbooks say what to do, and agents apply them. A language model is needed only for the rare failure nobody has seen before. In this project's ten synthetic fault scenarios, 1 of 12 incidents needed one.
 
 Holsti is named after the Taiwan yellow tit (*Machlolophus holsti*, [黃山雀](https://en.wikipedia.org/wiki/Yellow_tit), huáng shānquè), a bird found only in the mountains of Taiwan. It lives only in the forest it is suited to and cannot use marginal habitat. Outside the breeding season it joins mixed-species flocks, and in Taiwan's mountain forests these flocks have leader species that are the first to sound the alarm when a predator is near.
